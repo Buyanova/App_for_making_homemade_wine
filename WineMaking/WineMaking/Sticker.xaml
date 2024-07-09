@@ -1,0 +1,36 @@
+﻿<Window x:Class="WineMaking.Sticker"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WineMaking"
+        mc:Ignorable="d"
+        Title="Создание этикетки" Height="350" Width="600">
+    <Window.Resources>
+        <Style x:Key="ImageStyle1" TargetType="{x:Type Image}"/>
+        <Style x:Key="RoundButtonTemplate" TargetType="Button">
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="15" Background="#FF6A0A0A"
+                                BorderThickness="1">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center">
+
+                            </ContentPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid x:Name="Gr" Background="#FFFFF5F5">
+        <TextBlock HorizontalAlignment="Left" Margin="108,70,0,0" TextWrapping="Wrap" Text="Название этикетки" VerticalAlignment="Top" FontSize="16" Height="26" Width="144"/>
+        <TextBox x:Name="Name" HorizontalAlignment="Left" Margin="270,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" FontSize="16" Height="30"/>
+        <Button Style="{StaticResource RoundButtonTemplate}" x:Name="Print" Content="Печать" HorizontalAlignment="Left" Margin="318,228,0,0" VerticalAlignment="Top" Height="46" Width="136" FontSize="16" Click="Print_Click"/>
+        <Button Style="{StaticResource RoundButtonTemplate}" x:Name="Cancel" Content="Отмена" HorizontalAlignment="Left" Margin="159,228,0,0" VerticalAlignment="Top" Height="46" Width="119" FontSize="16" Click="Cancel_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="187,139,0,0" TextWrapping="Wrap" Text="Год" VerticalAlignment="Top" FontSize="16" Height="26" Width="38"/>
+        <TextBox x:Name="Year" HorizontalAlignment="Left" Margin="300,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="152" FontSize="16" Height="30"/>
+
+    </Grid>
+</Window>

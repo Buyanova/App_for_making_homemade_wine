@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\winemaking\\recomendfood.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|solutionrelative:winemaking\\recomendfood.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\winemaking\\equipment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|solutionrelative:winemaking\\equipment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\winemaking\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|solutionrelative:winemaking\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\winemaking\\recomendfood.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|solutionrelative:winemaking\\recomendfood.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|e:\\4 \u043A\u0443\u0440\u0441\\\u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0431\u0443\u044F\u043D\u043E\u0432\u0430\\winemaking\\winemaking\\sticker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|solutionrelative:winemaking\\sticker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\winemaking\\created.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|solutionrelative:winemaking\\created.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\winemaking\\sticker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|solutionrelative:winemaking\\sticker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\winemaking\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|solutionrelative:winemaking\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\winemaking\\allwines.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD43E929-A88E-4EA1-A48A-54B40E4D7988}|WineMaking\\WineMaking.csproj|solutionrelative:winemaking\\allwines.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sticker.xaml.cs",
+              "DocumentMoniker": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\Sticker.xaml.cs",
+              "RelativeDocumentMoniker": "WineMaking\\Sticker.xaml.cs",
+              "ToolTip": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\Sticker.xaml.cs",
+              "RelativeToolTip": "WineMaking\\Sticker.xaml.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:44:18.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecomendFood.xaml",
+              "DocumentMoniker": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\RecomendFood.xaml",
+              "RelativeDocumentMoniker": "WineMaking\\RecomendFood.xaml",
+              "ToolTip": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\RecomendFood.xaml",
+              "RelativeToolTip": "WineMaking\\RecomendFood.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-10T16:15:52.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecomendFood.xaml.cs",
+              "DocumentMoniker": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\RecomendFood.xaml.cs",
+              "RelativeDocumentMoniker": "WineMaking\\RecomendFood.xaml.cs",
+              "ToolTip": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\RecomendFood.xaml.cs",
+              "RelativeToolTip": "WineMaking\\RecomendFood.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDEAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T14:55:32.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Created.xaml.cs",
+              "DocumentMoniker": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\Created.xaml.cs",
+              "RelativeDocumentMoniker": "WineMaking\\Created.xaml.cs",
+              "ToolTip": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\Created.xaml.cs",
+              "RelativeToolTip": "WineMaking\\Created.xaml.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAQwFgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T14:55:32.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Equipment.xaml.cs",
+              "DocumentMoniker": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\Equipment.xaml.cs",
+              "RelativeDocumentMoniker": "WineMaking\\Equipment.xaml.cs",
+              "ToolTip": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\Equipment.xaml.cs",
+              "RelativeToolTip": "WineMaking\\Equipment.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T14:55:32.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\App.config",
+              "RelativeDocumentMoniker": "WineMaking\\App.config",
+              "ToolTip": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\App.config",
+              "RelativeToolTip": "WineMaking\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-04T15:48:57.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WineMaking\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WineMaking\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAqwDQAAAAWAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-12-21T14:55:32.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sticker.xaml",
+              "DocumentMoniker": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\Sticker.xaml",
+              "RelativeDocumentMoniker": "WineMaking\\Sticker.xaml",
+              "ToolTip": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\Sticker.xaml",
+              "RelativeToolTip": "WineMaking\\Sticker.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-04T16:32:07.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllWines.xaml.cs",
+              "DocumentMoniker": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\AllWines.xaml.cs",
+              "RelativeDocumentMoniker": "WineMaking\\AllWines.xaml.cs",
+              "ToolTip": "E:\\4 \u043A\u0443\u0440\u0441\\\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0438 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F \u0431\u0430\u0437 \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u044F\u043D\u043E\u0432\u0430\\WineMaking\\WineMaking\\AllWines.xaml.cs",
+              "RelativeToolTip": "WineMaking\\AllWines.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-12-21T14:55:32.242Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

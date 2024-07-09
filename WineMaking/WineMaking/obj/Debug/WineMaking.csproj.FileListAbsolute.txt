@@ -1,0 +1,143 @@
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.AssemblyReference.cache
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.SuggestedBindingRedirects.cache
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\AllWines.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\Created.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\MainWindow.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\App.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\WineMaking_MarkupCompile.cache
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\WineMaking_MarkupCompile.lref
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\bin\Debug\WineMaking.exe.config
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\bin\Debug\WineMaking.exe
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\bin\Debug\WineMaking.pdb
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\MainWindow.baml
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\AllWines.baml
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\Created.baml
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\WineMaking.g.resources
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\WineMaking.Properties.Resources.resources
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.GenerateResource.cache
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.CoreCompileInputs.cache
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\WineMaking.exe
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\WineMaking.pdb
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\Equipment.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\RecomendFood.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\Sticker.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\Equipment.baml
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\RecomendFood.baml
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\Sticker.baml
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\4 курс\Управление и автоматизация баз данных\Раздел проектирования клиентского приложения\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.CopyComplete
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\bin\Debug\WineMaking.exe.config
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\bin\Debug\WineMaking.exe
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\bin\Debug\WineMaking.pdb
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.AssemblyReference.cache
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.SuggestedBindingRedirects.cache
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\AllWines.g.cs
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\Created.g.cs
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\Equipment.g.cs
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\MainWindow.g.cs
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\RecomendFood.g.cs
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\Sticker.g.cs
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\App.g.cs
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\WineMaking_MarkupCompile.cache
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\WineMaking_MarkupCompile.lref
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\AllWines.baml
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\Created.baml
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\Equipment.baml
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\MainWindow.baml
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\RecomendFood.baml
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\Sticker.baml
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\WineMaking.g.resources
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\WineMaking.Properties.Resources.resources
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.GenerateResource.cache
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.CoreCompileInputs.cache
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.CopyComplete
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\WineMaking.exe
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\WineMaking.pdb
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\bin\Debug\CBOR.dll
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\bin\Debug\Newtonsoft.Json.dll
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\bin\Debug\Numbers.dll
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\bin\Debug\Pubnub.dll
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\bin\Debug\System.ValueTuple.dll
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\bin\Debug\URIUtility.dll
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\bin\Debug\WPFNotification.dll
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\obj\Debug\App.baml
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+E:\4 курс\Управление и автоматизация баз данных\WineMaking\WineMaking\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\bin\Debug\WineMaking.exe.config
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\bin\Debug\WineMaking.exe
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\bin\Debug\WineMaking.pdb
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\bin\Debug\Newtonsoft.Json.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\bin\Debug\CBOR.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\bin\Debug\Numbers.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\bin\Debug\URIUtility.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\bin\Debug\Pubnub.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\bin\Debug\System.ValueTuple.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\bin\Debug\WPFNotification.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.AssemblyReference.cache
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.SuggestedBindingRedirects.cache
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\AllWines.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\Created.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\Equipment.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\MainWindow.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\RecomendFood.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\Sticker.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\App.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\WineMaking_MarkupCompile.cache
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\WineMaking_MarkupCompile.lref
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\App.baml
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\AllWines.baml
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\Created.baml
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\Equipment.baml
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\MainWindow.baml
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\RecomendFood.baml
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\Sticker.baml
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\WineMaking.g.resources
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\WineMaking.Properties.Resources.resources
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.GenerateResource.cache
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.CoreCompileInputs.cache
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.CopyComplete
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\WineMaking.exe
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\WineMaking\WineMaking\obj\Debug\WineMaking.pdb
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\bin\Debug\WineMaking.exe.config
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\bin\Debug\WineMaking.exe
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\bin\Debug\WineMaking.pdb
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\bin\Debug\Newtonsoft.Json.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\bin\Debug\CBOR.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\bin\Debug\Numbers.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\bin\Debug\URIUtility.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\bin\Debug\Pubnub.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\bin\Debug\System.ValueTuple.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\bin\Debug\WPFNotification.dll
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.AssemblyReference.cache
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.SuggestedBindingRedirects.cache
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\AllWines.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\Created.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\Equipment.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\MainWindow.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\RecomendFood.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\Sticker.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\App.g.cs
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\WineMaking_MarkupCompile.cache
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\WineMaking_MarkupCompile.lref
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\App.baml
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\AllWines.baml
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\Created.baml
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\Equipment.baml
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\MainWindow.baml
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\RecomendFood.baml
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\Sticker.baml
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\WineMaking.g.resources
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\WineMaking.Properties.Resources.resources
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.GenerateResource.cache
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.CoreCompileInputs.cache
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\WineMaking.csproj.CopyComplete
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\WineMaking.exe
+E:\4 курс\Управление и автоматизация баз данных\Курсовая\Буянова\WineMaking\WineMaking\obj\Debug\WineMaking.pdb
